@@ -56,4 +56,4 @@ API endpoints:
 - Create a new **Web Service**, link to this repo, set `Root` to repo root (or `/backend` if monorepo).
 - Build command: `npm install`
 - Start command: `npm start`
-- Add environment variables in Render (see `.env.example`)
+- Add environment variables in Render (see `.env`)
